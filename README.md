@@ -6,6 +6,16 @@ Me chamo Noemi Eliziário Contrera, tenho 19 anos e sou natural de São Paulo. A
 
 Tenho como meta a transição para a Computação Quântica, estudando os algoritmos quânticos e como resolver problemas que hoje são impossíveis para a computação clássica.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/noemiecontrera/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>    
+
 ---
 
 ### Linguagens e Tecnologias
