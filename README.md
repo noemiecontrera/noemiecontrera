@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Noemi Eliziário Contrera, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando o quinto semestre de **Engenharia da Computação**. Atualmente, venho me aprofundando em Desenvolvimento Web.
+Me chamo Noemi Eliziário Contrera, tenho 19 anos e sou natural de São Paulo. Estou cursando o quinto semestre de **Engenharia da Computação**. Atualmente, venho me aprofundando em Desenvolvimento Web.
 
 Tenho como meta a transição para a Computação Quântica, estudando os algoritmos quânticos e como resolver problemas que hoje são impossíveis para a computação clássica.
 
