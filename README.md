@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Noemi Contrera
+#  Noemi Contrera
 
 **`Desenvolvedora`**
 
