@@ -98,12 +98,8 @@ Tenho como meta a transição para a Computação Quântica, estudando os algori
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiecontrera&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-    
+![](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=noemiecontrera&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noemiecontrera&theme=tokyonight)
+
+
 </p>
