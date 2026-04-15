@@ -94,6 +94,7 @@ Tenho como meta a transição para a Computação Quântica, estudando os algori
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=noemiecontrera&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noemiecontrera&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiecontrera&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="noemiecontrera's GitHub Stats" />
 
 
 </p>
