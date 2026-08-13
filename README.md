@@ -7,7 +7,7 @@ Me chamo Noemi Contrera, tenho 20 anos e sou natural de São Paulo. Estou cursan
 Tenho como meta a transição para a Computação Quântica, estudando os algoritmos quânticos e como resolver problemas que hoje são impossíveis para a computação clássica.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-571D63?style=for-the-badge&logo=githubpages&logoColor=white)](https://noemiecontrera.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noemiecontrera)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noemiecontrera)    
 
 ---
 
